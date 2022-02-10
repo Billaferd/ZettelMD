@@ -12,4 +12,8 @@ Front Matter is a list of key-value pairs that contain information about a docum
 - TOML
 - JavaScript
 
-The front matter in these documents is written in YAML. Many people do not like to use front matter in their note-taking systems because of it "hides" data. Other people don't like it because it doesn't focus on writing the intended note.
+The front matter in these documents is written in YAML. Many people do not like to use front matter in their note-taking systems because it "hides" data. Other people don't like it because it distracts from writing the intended note. Others are perfectly happy to have the front matter just sit there.
+
+Markdown editors generally take one of three approaches when it comes to markdown.
+
+- 
