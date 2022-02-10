@@ -16,4 +16,4 @@ There is also debate on where it should be stored. Some of the more popular opti
 
 ## Overview
 
-The overview section of a note is generally the first section and is usually the most consistent part. This section uses simple prose to describe the concept in very broad terms. Generally inline links are used to link out to more specific and supporting concepts. This is the type of note that most Zettelkasten guru's describe as a "good" note.
+The overview section of a note is generally the first section and is usually the most consistent part. This section uses simple prose to describe the concept in very broad terms. Generally inline links are used to link out to more specific and supporting concepts. This is the type of note that most Zettelkasten guru's describe as a "good" note. Most often it will be the prose section directly under the top level heading.
