@@ -1,6 +1,6 @@
 ---
 title: ZettelMD
-author: @brentritchie
+author: @BrentRitchie
 ---
 # ZettelMD
 
