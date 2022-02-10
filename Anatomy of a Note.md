@@ -8,6 +8,10 @@ source:
 
 Typically I see a note broken down into several parts. Not all of these are present all the time, but these are the general types that you will see.
 
+## Front Matter
+
+The [[Front Matter]] is probably the most contentious part for note takers. Many people are split on whether it's useful and many applications treat it differently. If the front matter was defined and treated consistently then I could see value in using it. But it's a bit of a free-for-all right now and needs to be further defined.
+
 ## Title
 
 Some people like to use the current date and time as a title, but I find it a bit too obtuse. I like to use a title that is easy to use in a sentence for easy wiki-style links.
