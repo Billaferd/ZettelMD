@@ -26,4 +26,4 @@ The overview section of a note is generally the first section and is usually the
 
 Some people like to add technical and procedural information for certain notes like recipes, software specs, and data analysis to name a few. If sections like this had a more definite structure I feel that it would be easier to navigate and find links in the [[Knowledge Graph]].
 
-These sections make heavy use of tables, lists, and graphs. Incorporating some of this meta data would be ideal, especially since [[HTML]] is becoming better at defining structure with every new feature.
+These sections make heavy use of tables, lists, and graphs. Incorporating some of this meta data would be ideal, especially since [[HTML]]'s primary goal is to describe the structure of data.
