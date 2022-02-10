@@ -1,3 +1,7 @@
+---
+title: ZettelMD
+author: @brentritchie
+---
 # ZettelMD
 
 Just some thoughts and random musings on a general-purpose Markdown-powered Second-Brain and how I would want something to work ideally.
