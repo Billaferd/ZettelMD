@@ -26,10 +26,16 @@ I personally don't prefer one argument over another. Some of my notes can be ext
 
 ## Overview
 
-The overview section of a note is generally the first section and is usually the most consistent part. This section uses simple prose to describe the concept in very broad terms. Generally inline links are used to link out to more specific and supporting concepts. This is the type of note that most Zettelkasten guru's describe as a "good" note. Most often it will be the prose section directly under the top level heading.
+The overview section of a note is generally the first section and is usually the most consistent part. This section uses simple prose to describe the concept in very broad terms. Generally inline links are used to link out to more specific and supporting concepts. This is the type of note that most Zettelkasten gurus describe as a "good" note. It will often be the prose section directly under the top-level heading.
 
 ## Information Dump
 
-Some people like to add technical and procedural information for certain notes like recipes, software specs, and data analysis to name a few. If sections like this had a more definite structure I feel that it would be easier to navigate and find links in the [[Knowledge Graph]].
+Some people like to add technical and procedural information for specific notes like recipes, software specs, and data analysis, to name a few. If sections like this had a more definite structure, it would be easier to navigate and find links in the [[Knowledge Graph]].
 
-These sections make heavy use of tables, lists, and graphs. Incorporating some of this meta data would be ideal, especially since [[Hyper Text Markup Language]]'s primary goal is to describe the structure of data.
+These sections make heavy use of tables, lists, and graphs. Incorporating some of this metadata would be ideal, especially since [[Hyper Text Markup Language]]'s primary goal is to describe data structure.
+
+## To-Do's
+
+I believe that listing To-Do's in a dedicated document is the easiest way to manage them. Especially when you are doing several projects at once. Putting the To-Do's directly alongside other notes or even inside of them, take a lot of effort to manage if special tooling isn't used. And I really want to find a method that is as tooling independent as possible.
+
+Currently I use a plugin called vscode-todo-md, and it is great but has some shortcomings. These are all a design decision and based on the fact that the author wants to keep it extremely simple and one line per task. However I want to track a set of to-dos that have dependencies, start dates and several other complications. This is not congruent with a simple task-per-line model. It is also contradictory with my minimal tooling requirement.
