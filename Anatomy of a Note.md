@@ -20,7 +20,7 @@ There is also debate on where it should be stored. Some of the more popular opti
 
 ## Table of Contents
 
-This section can be controversial because there are two (2) trains of thought. One side says that each note should be small and not need a table of contents. Others say that a nate should be allowed to grow over time and sometimes may need a table of contents to keep everything accessible.
+This section can be controversial because there are two (2) trains of thought. One side says that each note should be small and not need a table of contents. Others say that a note should be allowed to grow over time and sometimes may need a table of contents to keep everything accessible.
 
 I personally don't prefer one argument over another. Some of my notes can be extremely small and consist of a single paragraph. Some notes though can be extremely large because it may describe different aspects of a single thing. Most of my notes documenting server configurations are like this.
 
@@ -30,12 +30,12 @@ The overview section of a note is generally the first section and is usually the
 
 ## Information Dump
 
-Some people like to add technical and procedural information for specific notes like recipes, software specs, and data analysis, to name a few. If sections like this had a more definite structure, it would be easier to navigate and find links in the [[Knowledge Graph]].
+Some people like to add technical and procedural information for specific notes like recipes, software specs, and data analysis, to name a few. If this section had a more definite structure, it would be easier to navigate and find links in the [[Knowledge Graph]].
 
 These sections make heavy use of tables, lists, and graphs. Incorporating some of this metadata would be ideal, especially since [[Hyper Text Markup Language]]'s primary goal is to describe data structure.
 
 ## To-Do's
 
-I believe that listing To-Do's in a dedicated document is the easiest way to manage them. Especially when you are doing several projects at once. Putting the To-Do's directly alongside other notes or even inside of them, take a lot of effort to manage if special tooling isn't used. And I really want to find a method that is as tooling independent as possible.
+Listing To-Do's in a dedicated document is the easiest way to manage them. Especially when you are doing several projects at once. Putting the To-Do's directly alongside other notes or even inside of them takes a lot of effort to manage if special tooling isn't used. And I want to find a method that is as minimal and tooling independent as possible.
 
-Currently I use a plugin called [vscode-todo-md](https://github.com/usernamehw/vscode-todo-md), and it is great but has some shortcomings. These are all a design decision and based on the fact that the author wants to keep it extremely simple and one line per task. However I want to track a set of to-dos that have dependencies, start dates and several other complications. This is not congruent with a simple task-per-line model. It is also contradictory with my minimal tooling requirement.
+Currently, I use a plugin called [vscode-todo-md](https://github.com/usernamehw/vscode-todo-md), and it is great but has some shortcomings. These are all design decisions because the author wants to keep it extremely simple with one line per task. I want to track a set of to-dos that have dependencies, start dates and several other complications. This is not congruent with a simple to-do model. It is also contradictory with my minimal tooling requirement.
